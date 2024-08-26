@@ -1,0 +1,10 @@
+C:\Users\naole\source\repos\MyAPP1\MyAPP1\bin\Debug\MyAPP1.exe.config
+C:\Users\naole\source\repos\MyAPP1\MyAPP1\bin\Debug\MyAPP1.exe
+C:\Users\naole\source\repos\MyAPP1\MyAPP1\bin\Debug\MyAPP1.pdb
+C:\Users\naole\source\repos\MyAPP1\MyAPP1\obj\Debug\MyAPP1.csproj.AssemblyReference.cache
+C:\Users\naole\source\repos\MyAPP1\MyAPP1\obj\Debug\MyAPP1.FrmPrincipal.resources
+C:\Users\naole\source\repos\MyAPP1\MyAPP1\obj\Debug\MyAPP1.Properties.Resources.resources
+C:\Users\naole\source\repos\MyAPP1\MyAPP1\obj\Debug\MyAPP1.csproj.GenerateResource.cache
+C:\Users\naole\source\repos\MyAPP1\MyAPP1\obj\Debug\MyAPP1.csproj.CoreCompileInputs.cache
+C:\Users\naole\source\repos\MyAPP1\MyAPP1\obj\Debug\MyAPP1.exe
+C:\Users\naole\source\repos\MyAPP1\MyAPP1\obj\Debug\MyAPP1.pdb

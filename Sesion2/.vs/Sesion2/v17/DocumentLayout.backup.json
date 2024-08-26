@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naole\\OneDrive\\Sesion2MetyPE\\Sesion2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A13B9C9E-F328-4E0C-BBA8-1D28B960403E}|Sesion2\\Sesion2.csproj|c:\\users\\naole\\onedrive\\sesion2metype\\sesion2\\sesion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13B9C9E-F328-4E0C-BBA8-1D28B960403E}|Sesion2\\Sesion2.csproj|solutionrelative:sesion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13B9C9E-F328-4E0C-BBA8-1D28B960403E}|Sesion2\\Sesion2.csproj|c:\\users\\naole\\onedrive\\sesion2metype\\sesion2\\sesion2\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13B9C9E-F328-4E0C-BBA8-1D28B960403E}|Sesion2\\Sesion2.csproj|solutionrelative:sesion2\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\Sesion2MetyPE\\Sesion2\\Sesion2\\clases\\Persona.cs",
+              "RelativeDocumentMoniker": "Sesion2\\clases\\Persona.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\Sesion2MetyPE\\Sesion2\\Sesion2\\clases\\Persona.cs",
+              "RelativeToolTip": "Sesion2\\clases\\Persona.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:29:07.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\Sesion2MetyPE\\Sesion2\\Sesion2\\Program.cs",
+              "RelativeDocumentMoniker": "Sesion2\\Program.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\Sesion2MetyPE\\Sesion2\\Sesion2\\Program.cs*",
+              "RelativeToolTip": "Sesion2\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswCAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:27:07.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
